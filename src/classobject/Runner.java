@@ -13,7 +13,7 @@ public class Runner {
 
 
 
-        System.out.println(mayur.surname);
+        System.out.println(chandan.name);
 
 
 
